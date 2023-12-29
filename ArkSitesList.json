@@ -1,0 +1,17 @@
+[
+  {
+    "name":"明日方舟一图流",
+    "imgUrl":"https://img.lnk",
+    "nickname":"一图流",
+    "state":"online",
+    "abstract":"这里填简介",
+    "website":true,
+    "address":"https://yituliu.cn/",
+    "iosapp":false,
+    "ipkLink":"",
+    "androidapp":false,
+    "apkLink":"",
+    "isOwner":true,
+    
+  }
+]
